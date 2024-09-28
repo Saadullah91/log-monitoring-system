@@ -1,0 +1,6 @@
+INFO: User login successful
+ERROR: Failed to connect to database
+WARNING: Disk space low
+INFO: User logout
+ERROR: SQL Injection attempt detected
+DEBUG: Verbose logging enabled
